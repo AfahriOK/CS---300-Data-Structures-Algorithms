@@ -2,7 +2,7 @@
 // Name        : Project Two.cpp
 // Author      : Afahri Kerr
 // Version     : 1.0
-// Copyright   : Copyright © 2017 SNHU COCE
+// Copyright   : Copyright Â© 2017 SNHU COCE
 // Description : Program designed to load a data file from a csv file,
 //               print a course list in alphanumeric order, and print a 
 //               specific course and any prerequisites
