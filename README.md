@@ -13,4 +13,4 @@ At times I got stuck trying to figure out how to do something but a quick google
 This project has shown me that you should put some thought into what kind of data structure you would like to use for your specific problem because it can make a big impact especially as your data sets get larger.
 
 # How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
-I already understood that everything should be well commented and this program just reinforced that idea due to all the different complex methods used top create the binary search tree.
+This program reinforced the idea that I should comment my code and make sure it isn't redundant due to all the different complex methods used to create the binary search tree.
