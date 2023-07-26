@@ -1,4 +1,4 @@
-# CS-300-Data-Structures-Algorithms
+# Data Structures & Algorithms
 
 # What was the problem you were solving in the projects for this course?
 The purpose of this project was to create a program to read a list of classes and create a data structure to hold that information. Our choices were an array, a vector, a hash table, or a binary searh tree. The program requirements were that we could add new classes, look up those classes, and sort the data to print it all out in alphanumeric order.
